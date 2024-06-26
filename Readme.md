@@ -17,3 +17,5 @@ This repository is created as part of Machine Learning Engineer work trial. It c
 ## Evaluation Criteria
 - Different model performance was compared using 3 metrics- MAE, MSE, RMSE
 
+Custom transformer model weights can be downloaded [here](https://drive.google.com/file/d/1-DcDvLx7F68AJUy_-qhRQsA8FghDpfus/view?usp=drive_link)
+
