@@ -7,7 +7,7 @@ This repository is created as part of Machine Learning Engineer work trial. It c
 - Or follow instructions given in each notebook
 
 ## Pre-processing Dataset
-- [Download Link](https://drive.google.com/file/d/1e-r9DVETTP7hqg9qNzxaZ_asFcup0FaK/view?usp=sharing)
+- [Data Download Link](https://drive.google.com/file/d/1e-r9DVETTP7hqg9qNzxaZ_asFcup0FaK/view?usp=sharing)
 -	To see the schema for the market data, visit [link](https://databento.com/datasets/XNAS.ITCH) and select the TTBO Schema.
 - Added momentum, value, volatality, trend and other indicators.
 -	Stock prices were recorded at irregular intervals (in nanoseconds). Timestamps were then uniformly sampled to seconds, and NaN values were addressed.
